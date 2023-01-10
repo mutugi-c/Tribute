@@ -33,3 +33,27 @@
 .tribute_caption {
   padding: 10px;
 }
+.tribute_life{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.tribute_life h3{
+    padding-top: 35px;
+    font-size: 25px;
+
+}
+.list_element{
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin: 0px 120px; 
+    line-height: 1.5;
+
+}
+.quote{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px 120px;
+
+}
