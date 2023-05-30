@@ -53,7 +53,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- - [Live Demo Link](https://mutugi-c.github.io/Tribute/)
+- [Live Demo Link](https://mutugi-c.github.io/Tribute/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
